@@ -8,7 +8,7 @@ import { Link } from 'react-router';
 
 const Footer = () => {
     return (
-       
+        
     );
 };
 
