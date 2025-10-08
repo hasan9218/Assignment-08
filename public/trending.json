@@ -1,0 +1,506 @@
+[
+  {
+    "image": "https://plus.unsplash.com/premium_photo-1669323925693-b27e909a670d?q=80&w=780&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Photo Editor Pro",
+    "companyName": "SnapTech",
+    "id": 1,
+    "description": "A powerful photo editing tool with advanced filters and AI enhancements.",
+    "size": 85,
+    "reviews": 12000,
+    "ratingAvg": 4.5,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 5600 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app2.png",
+    "title": "Task Manager",
+    "companyName": "Productivity Inc.",
+    "id": 2,
+    "description": "Organize your tasks with ease using this intuitive task management app.",
+    "size": 45,
+    "reviews": 8000,
+    "ratingAvg": 4.2,
+    "downloads": 3,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 2600 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app3.png",
+    "title": "Fitness Coach",
+    "companyName": "HealthWorks",
+    "id": 3,
+    "description": "Personalized workout plans and nutrition tracking for a healthier you.",
+    "size": 120,
+    "reviews": 15000,
+    "ratingAvg": 4.7,
+    "downloads": 75,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 4500 },
+      { "name": "5 star", "count": 8800 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app4.png",
+    "title": "Music Streamer",
+    "companyName": "TuneFlow",
+    "id": 4,
+    "description": "Stream millions of songs and create personalized playlists.",
+    "size": 60,
+    "reviews": 20000,
+    "ratingAvg": 4.3,
+    "downloads": 1,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 3000 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 9400 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app5.png",
+    "title": "Language Learner",
+    "companyName": "EduLingua",
+    "id": 5,
+    "description": "Learn new languages with interactive lessons and speech recognition.",
+    "size": 90,
+    "reviews": 9500,
+    "ratingAvg": 4.6,
+    "downloads": 4,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 4900 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app6.png",
+    "title": "Budget Tracker",
+    "companyName": "MoneyWise",
+    "id": 6,
+    "description": "Manage your finances with easy budgeting and expense tracking tools.",
+    "size": 50,
+    "reviews": 7000,
+    "ratingAvg": 4.1,
+    "downloads": 25,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 2300 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app7.png",
+    "title": "Travel Guide",
+    "companyName": "Wanderlust Co.",
+    "id": 7,
+    "description": "Explore destinations with curated travel guides and offline maps.",
+    "size": 110,
+    "reviews": 11000,
+    "ratingAvg": 4.4,
+    "downloads": 6,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 4600 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app8.png",
+    "title": "Meditation Hub",
+    "companyName": "CalmMind",
+    "id": 8,
+    "description": "Guided meditation sessions to reduce stress and improve focus.",
+    "size": 70,
+    "reviews": 13000,
+    "ratingAvg": 4.8,
+    "downloads": 8,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 8800 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app1.png",
+    "title": "ChatMaster AI",
+    "companyName": "TechNova Labs",
+    "id": 1,
+    "description": "ChatMaster AI is a powerful chatbot platform that helps users communicate, automate tasks, and get instant answers using advanced natural language processing.",
+    "size": 85,
+    "reviews": 12943,
+    "ratingAvg": 4.6,
+    "downloads": 50,
+    "ratings": [
+      { "name": "1 star", "count": 540 },
+      { "name": "2 star", "count": 920 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2700 },
+      { "name": "5 star", "count": 9583 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app2.png",
+    "title": "PhotoCraft Editor",
+    "companyName": "PixelWave Studio",
+    "id": 2,
+    "description": "PhotoCraft Editor offers professional-grade tools to edit, retouch, and enhance your photos with stunning filters, backgrounds, and AI-powered effects.",
+    "size": 112,
+    "reviews": 20340,
+    "ratingAvg": 4.4,
+    "downloads": 100,
+    "ratings": [
+      { "name": "1 star", "count": 850 },
+      { "name": "2 star", "count": 1130 },
+      { "name": "3 star", "count": 2670 },
+      { "name": "4 star", "count": 5600 },
+      { "name": "5 star", "count": 10090 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app3.png",
+    "title": "TaskFlow Manager",
+    "companyName": "ProductiveWorks",
+    "id": 3,
+    "description": "TaskFlow Manager keeps your projects organized with task lists, reminders, deadlines, and seamless team collaboration tools in one intuitive interface.",
+    "size": 65,
+    "reviews": 7340,
+    "ratingAvg": 4.2,
+    "downloads": 25,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 740 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 2700 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app4.png",
+    "title": "MusicVibe Player",
+    "companyName": "Sonic Pulse Inc.",
+    "id": 4,
+    "description": "MusicVibe Player delivers a premium listening experience with customizable sound effects, equalizer presets, and offline playlists for music lovers.",
+    "size": 98,
+    "reviews": 15820,
+    "ratingAvg": 4.7,
+    "downloads": 80,
+    "ratings": [
+      { "name": "1 star", "count": 320 },
+      { "name": "2 star", "count": 510 },
+      { "name": "3 star", "count": 850 },
+      { "name": "4 star", "count": 3600 },
+      { "name": "5 star", "count": 11540 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app5.png",
+    "title": "FitTrack Pro",
+    "companyName": "ActiveLife Apps",
+    "id": 5,
+    "description": "FitTrack Pro helps users track workouts, calories, and health stats in real-time, offering AI-driven fitness recommendations tailored to each user.",
+    "size": 77,
+    "reviews": 11030,
+    "ratingAvg": 4.5,
+    "downloads": 40,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 890 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 3100 },
+      { "name": "5 star", "count": 5140 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app6.png",
+    "title": "BudgetEase",
+    "companyName": "MoneyMind Systems",
+    "id": 6,
+    "description": "BudgetEase simplifies personal finance with smart expense tracking, budget planning, and insights that help users save more effectively.",
+    "size": 58,
+    "reviews": 8200,
+    "ratingAvg": 4.3,
+    "downloads": 3,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 760 },
+      { "name": "3 star", "count": 1120 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 3020 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app7.png",
+    "title": "Learnify",
+    "companyName": "EduSmart Co.",
+    "id": 7,
+    "description": "Learnify is an all-in-one learning app offering thousands of free and premium courses, quizzes, and certifications from top educators.",
+    "size": 134,
+    "reviews": 19300,
+    "ratingAvg": 4.8,
+    "downloads": 12,
+    "ratings": [
+      { "name": "1 star", "count": 430 },
+      { "name": "2 star", "count": 720 },
+      { "name": "3 star", "count": 980 },
+      { "name": "4 star", "count": 4100 },
+      { "name": "5 star", "count": 13070 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app8.png",
+    "title": "GameBooster X",
+    "companyName": "HyperDrive Tech",
+    "id": 8,
+    "description": "GameBooster X enhances gaming performance by optimizing CPU, RAM, and network usage, delivering a smoother and lag-free experience.",
+    "size": 45,
+    "reviews": 9020,
+    "ratingAvg": 4.1,
+    "downloads": 60,
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 1400 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 2520 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app9.png",
+    "title": "WeatherScope",
+    "companyName": "SkyTech Global",
+    "id": 9,
+    "description": "WeatherScope provides real-time weather forecasts, radar maps, and severe weather alerts to keep users prepared at all times.",
+    "size": 50,
+    "reviews": 6300,
+    "ratingAvg": 4.0,
+    "downloads": 20,
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 950 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 1900 },
+      { "name": "5 star", "count": 1450 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app10.png",
+    "title": "NoteWise",
+    "companyName": "IdeaPad Software",
+    "id": 10,
+    "description": "NoteWise is a minimalistic note-taking app that syncs your ideas across devices with cloud backup and advanced organization tools.",
+    "size": 39,
+    "reviews": 4320,
+    "ratingAvg": 4.4,
+    "downloads": 12,
+    "ratings": [
+      { "name": "1 star", "count": 280 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 690 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 1450 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app11.png",
+    "title": "TravelGo",
+    "companyName": "WorldConnect",
+    "id": 11,
+    "description": "TravelGo helps you find affordable flights, hotels, and travel packages, offering AI-based suggestions for a seamless travel experience.",
+    "size": 98,
+    "reviews": 10200,
+    "ratingAvg": 4.5,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 520 },
+      { "name": "2 star", "count": 840 },
+      { "name": "3 star", "count": 1250 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 5090 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app12.png",
+    "title": "StreamZone",
+    "companyName": "VividStream Media",
+    "id": 12,
+    "description": "StreamZone lets users enjoy HD movies, shows, and live events anytime, anywhere, with personalized recommendations and offline mode.",
+    "size": 145,
+    "reviews": 23800,
+    "ratingAvg": 4.7,
+    "downloads": 15,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 1600 },
+      { "name": "3 star", "count": 2100 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 14900 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app13.png",
+    "title": "LangHero",
+    "companyName": "PolyLingua Labs",
+    "id": 13,
+    "description": "LangHero is an interactive language learning app with real-time pronunciation feedback, AI tutors, and gamified lessons for 40+ languages.",
+    "size": 102,
+    "reviews": 17800,
+    "ratingAvg": 4.8,
+    "downloads": 11,
+    "ratings": [
+      { "name": "1 star", "count": 410 },
+      { "name": "2 star", "count": 620 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 12770 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app14.png",
+    "title": "SecureVault",
+    "companyName": "CyberTrust Inc.",
+    "id": 14,
+    "description": "SecureVault offers top-tier password management, encrypted storage, and biometric authentication to protect your sensitive data.",
+    "size": 55,
+    "reviews": 7200,
+    "ratingAvg": 4.6,
+    "downloads": 35,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 420 },
+      { "name": "3 star", "count": 850 },
+      { "name": "4 star", "count": 2300 },
+      { "name": "5 star", "count": 3330 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app15.png",
+    "title": "CalmMind",
+    "companyName": "ZenTech Studio",
+    "id": 15,
+    "description": "CalmMind helps users manage stress with guided meditations, sleep sounds, and mindfulness exercises personalized to their mood and habits.",
+    "size": 88,
+    "reviews": 15300,
+    "ratingAvg": 4.9,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 190 },
+      { "name": "2 star", "count": 340 },
+      { "name": "3 star", "count": 610 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 12160 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app16.png",
+    "title": "FoodSnap",
+    "companyName": "TastyLens",
+    "id": 16,
+    "description": "FoodSnap recognizes dishes and ingredients from photos, offering recipes, nutrition info, and restaurant suggestions instantly.",
+    "size": 94,
+    "reviews": 9700,
+    "ratingAvg": 4.3,
+    "downloads": 45,
+    "ratings": [
+      { "name": "1 star", "count": 520 },
+      { "name": "2 star", "count": 870 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 4510 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app17.png",
+    "title": "ShopMate",
+    "companyName": "SmartCart Global",
+    "id": 17,
+    "description": "ShopMate is your intelligent shopping companion, comparing prices across online stores and tracking discounts in real-time.",
+    "size": 79,
+    "reviews": 12600,
+    "ratingAvg": 4.4,
+    "downloads": 8,
+    "ratings": [
+      { "name": "1 star", "count": 720 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 3300 },
+      { "name": "5 star", "count": 6080 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app18.png",
+    "title": "DriveEase",
+    "companyName": "AutoPilot Apps",
+    "id": 18,
+    "description": "DriveEase provides navigation, trip logs, and AI-based driving assistance for smoother, safer, and more efficient journeys.",
+    "size": 120,
+    "reviews": 8900,
+    "ratingAvg": 4.2,
+    "downloads": 4,
+    "ratings": [
+      { "name": "1 star", "count": 680 },
+      { "name": "2 star", "count": 890 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 2600 },
+      { "name": "5 star", "count": 3430 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app19.png",
+    "title": "BookNest",
+    "companyName": "ReadMore Studios",
+    "id": 19,
+    "description": "BookNest offers an endless digital library with personalized book recommendations, offline reading, and audiobook integration.",
+    "size": 108,
+    "reviews": 14600,
+    "ratingAvg": 4.7,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 690 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 11210 }
+    ]
+  },
+  {
+    "image": "https://example.com/images/app20.png",
+    "title": "HomeSmart",
+    "companyName": "FutureLiving Tech",
+    "id": 20,
+    "description": "HomeSmart connects and automates your smart home devices, giving you control over lighting, temperature, and security from one app.",
+    "size": 130,
+    "reviews": 12300,
+    "ratingAvg": 4.5,
+    "downloads": 6,
+    "ratings": [
+      { "name": "1 star", "count": 510 },
+      { "name": "2 star", "count": 870 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 6920 }
+    ]
+  }
+]

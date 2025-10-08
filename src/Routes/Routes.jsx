@@ -10,18 +10,22 @@ const router = createBrowserRouter([
         path: "/",
         element: <MainLayout />,
         errorElement: <Error/>,
+        hydrateFallbackElement:<p>Loading...</p>,
         children: [
             {
                 index: true,
-                element: <Home />
+                element: <Home />,
+                loader: ()=> fetch('./trending.json'),
             },
             {
                 path: "/products",
-                element: <Products />
+                element: <Products />,
+                loader: ()=> fetch('./trending.json'),
             },
             {
                 path: "/install",
-                element: <Install />
+                element: <Install />,
+                loader: ()=> fetch('./trending.json'),
             },
 
         ],
