@@ -1,12 +1,12 @@
 [
   {
-    "image": "https://plus.unsplash.com/premium_photo-1669323925693-b27e909a670d?q=80&w=780&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "image": "https://img.icons8.com/clouds/300/apple-app-store.png",
     "title": "Photo Editor Pro",
     "companyName": "SnapTech",
     "id": 1,
     "description": "A powerful photo editing tool with advanced filters and AI enhancements.",
     "size": 85,
-    "reviews": 12000,
+    "reviews": 12,
     "ratingAvg": 4.5,
     "downloads": 5,
     "ratings": [
@@ -18,13 +18,13 @@
     ]
   },
   {
-    "image": "https://example.com/images/app2.png",
+    "image": "https://img.icons8.com/bubbles/300/spotify.png",
     "title": "Task Manager",
     "companyName": "Productivity Inc.",
     "id": 2,
     "description": "Organize your tasks with ease using this intuitive task management app.",
     "size": 45,
-    "reviews": 8000,
+    "reviews": 80,
     "ratingAvg": 4.2,
     "downloads": 3,
     "ratings": [
@@ -36,13 +36,13 @@
     ]
   },
   {
-    "image": "https://example.com/images/app3.png",
+    "image": "https://img.icons8.com/clouds/300/tiktok.png",
     "title": "Fitness Coach",
     "companyName": "HealthWorks",
     "id": 3,
     "description": "Personalized workout plans and nutrition tracking for a healthier you.",
     "size": 120,
-    "reviews": 15000,
+    "reviews": 15,
     "ratingAvg": 4.7,
     "downloads": 75,
     "ratings": [
@@ -54,13 +54,13 @@
     ]
   },
   {
-    "image": "https://example.com/images/app4.png",
+    "image": "https://img.icons8.com/clouds/300/discord.png",
     "title": "Music Streamer",
     "companyName": "TuneFlow",
     "id": 4,
     "description": "Stream millions of songs and create personalized playlists.",
     "size": 60,
-    "reviews": 20000,
+    "reviews": 200,
     "ratingAvg": 4.3,
     "downloads": 1,
     "ratings": [
@@ -72,13 +72,13 @@
     ]
   },
   {
-    "image": "https://example.com/images/app5.png",
+    "image": "https://img.icons8.com/ios-filled/300/shazam.png",
     "title": "Language Learner",
     "companyName": "EduLingua",
     "id": 5,
     "description": "Learn new languages with interactive lessons and speech recognition.",
     "size": 90,
-    "reviews": 9500,
+    "reviews": 95,
     "ratingAvg": 4.6,
     "downloads": 4,
     "ratings": [
@@ -90,13 +90,13 @@
     ]
   },
   {
-    "image": "https://example.com/images/app6.png",
+    "image": "https://img.icons8.com/color/300/workspace-one.png",
     "title": "Budget Tracker",
     "companyName": "MoneyWise",
     "id": 6,
     "description": "Manage your finances with easy budgeting and expense tracking tools.",
     "size": 50,
-    "reviews": 7000,
+    "reviews": 7,
     "ratingAvg": 4.1,
     "downloads": 25,
     "ratings": [
@@ -108,13 +108,13 @@
     ]
   },
   {
-    "image": "https://example.com/images/app7.png",
+    "image": "https://img.icons8.com/color/300/ibis-paint-x.png",
     "title": "Travel Guide",
     "companyName": "Wanderlust Co.",
     "id": 7,
     "description": "Explore destinations with curated travel guides and offline maps.",
     "size": 110,
-    "reviews": 11000,
+    "reviews": 11,
     "ratingAvg": 4.4,
     "downloads": 6,
     "ratings": [
@@ -126,13 +126,13 @@
     ]
   },
   {
-    "image": "https://example.com/images/app8.png",
+    "image": "https://img.icons8.com/color/300/zalo.png",
     "title": "Meditation Hub",
     "companyName": "CalmMind",
     "id": 8,
     "description": "Guided meditation sessions to reduce stress and improve focus.",
     "size": 70,
-    "reviews": 13000,
+    "reviews": 130,
     "ratingAvg": 4.8,
     "downloads": 8,
     "ratings": [
@@ -144,13 +144,13 @@
     ]
   },
   {
-    "image": "https://example.com/images/app1.png",
+    "image": "https://img.icons8.com/color/300/zalo.png",
     "title": "ChatMaster AI",
     "companyName": "TechNova Labs",
     "id": 1,
     "description": "ChatMaster AI is a powerful chatbot platform that helps users communicate, automate tasks, and get instant answers using advanced natural language processing.",
     "size": 85,
-    "reviews": 12943,
+    "reviews": 12,
     "ratingAvg": 4.6,
     "downloads": 50,
     "ratings": [
@@ -162,13 +162,13 @@
     ]
   },
   {
-    "image": "https://example.com/images/app2.png",
+    "image": "https://img.icons8.com/color/300/shazam.png",
     "title": "PhotoCraft Editor",
     "companyName": "PixelWave Studio",
     "id": 2,
     "description": "PhotoCraft Editor offers professional-grade tools to edit, retouch, and enhance your photos with stunning filters, backgrounds, and AI-powered effects.",
     "size": 112,
-    "reviews": 20340,
+    "reviews": 203,
     "ratingAvg": 4.4,
     "downloads": 100,
     "ratings": [
@@ -180,13 +180,13 @@
     ]
   },
   {
-    "image": "https://example.com/images/app3.png",
+    "image": "https://img.icons8.com/color/300/goodnotes.png",
     "title": "TaskFlow Manager",
     "companyName": "ProductiveWorks",
     "id": 3,
     "description": "TaskFlow Manager keeps your projects organized with task lists, reminders, deadlines, and seamless team collaboration tools in one intuitive interface.",
     "size": 65,
-    "reviews": 7340,
+    "reviews": 73,
     "ratingAvg": 4.2,
     "downloads": 25,
     "ratings": [
@@ -198,13 +198,13 @@
     ]
   },
   {
-    "image": "https://example.com/images/app4.png",
+    "image": "https://img.icons8.com/clouds/300/canva.png",
     "title": "MusicVibe Player",
     "companyName": "Sonic Pulse Inc.",
     "id": 4,
     "description": "MusicVibe Player delivers a premium listening experience with customizable sound effects, equalizer presets, and offline playlists for music lovers.",
     "size": 98,
-    "reviews": 15820,
+    "reviews": 158,
     "ratingAvg": 4.7,
     "downloads": 80,
     "ratings": [
@@ -216,13 +216,13 @@
     ]
   },
   {
-    "image": "https://example.com/images/app5.png",
+    "image": "https://img.icons8.com/clouds/300/youtube.png",
     "title": "FitTrack Pro",
     "companyName": "ActiveLife Apps",
     "id": 5,
     "description": "FitTrack Pro helps users track workouts, calories, and health stats in real-time, offering AI-driven fitness recommendations tailored to each user.",
     "size": 77,
-    "reviews": 11030,
+    "reviews": 110,
     "ratingAvg": 4.5,
     "downloads": 40,
     "ratings": [
@@ -234,13 +234,13 @@
     ]
   },
   {
-    "image": "https://example.com/images/app6.png",
+    "image": "https://img.icons8.com/clouds/300/radish-app.png",
     "title": "BudgetEase",
     "companyName": "MoneyMind Systems",
     "id": 6,
     "description": "BudgetEase simplifies personal finance with smart expense tracking, budget planning, and insights that help users save more effectively.",
     "size": 58,
-    "reviews": 8200,
+    "reviews": 82,
     "ratingAvg": 4.3,
     "downloads": 3,
     "ratings": [
@@ -252,13 +252,13 @@
     ]
   },
   {
-    "image": "https://example.com/images/app7.png",
+    "image": "https://img.icons8.com/bubbles/300/zalo.png",
     "title": "Learnify",
     "companyName": "EduSmart Co.",
     "id": 7,
     "description": "Learnify is an all-in-one learning app offering thousands of free and premium courses, quizzes, and certifications from top educators.",
     "size": 134,
-    "reviews": 19300,
+    "reviews": 193,
     "ratingAvg": 4.8,
     "downloads": 12,
     "ratings": [
@@ -270,13 +270,13 @@
     ]
   },
   {
-    "image": "https://example.com/images/app8.png",
+    "image": "https://img.icons8.com/clouds/300/workout-women.png",
     "title": "GameBooster X",
     "companyName": "HyperDrive Tech",
     "id": 8,
     "description": "GameBooster X enhances gaming performance by optimizing CPU, RAM, and network usage, delivering a smoother and lag-free experience.",
     "size": 45,
-    "reviews": 9020,
+    "reviews": 90,
     "ratingAvg": 4.1,
     "downloads": 60,
     "ratings": [
@@ -288,13 +288,13 @@
     ]
   },
   {
-    "image": "https://example.com/images/app9.png",
+    "image": "https://img.icons8.com/plasticine/300/zalo.png",
     "title": "WeatherScope",
     "companyName": "SkyTech Global",
     "id": 9,
     "description": "WeatherScope provides real-time weather forecasts, radar maps, and severe weather alerts to keep users prepared at all times.",
     "size": 50,
-    "reviews": 6300,
+    "reviews": 63,
     "ratingAvg": 4.0,
     "downloads": 20,
     "ratings": [
@@ -306,13 +306,13 @@
     ]
   },
   {
-    "image": "https://example.com/images/app10.png",
+    "image": "https://img.icons8.com/dusk/300/google-docs.png",
     "title": "NoteWise",
     "companyName": "IdeaPad Software",
     "id": 10,
     "description": "NoteWise is a minimalistic note-taking app that syncs your ideas across devices with cloud backup and advanced organization tools.",
     "size": 39,
-    "reviews": 4320,
+    "reviews": 43,
     "ratingAvg": 4.4,
     "downloads": 12,
     "ratings": [
@@ -324,13 +324,13 @@
     ]
   },
   {
-    "image": "https://example.com/images/app11.png",
+    "image": "https://img.icons8.com/plasticine/300/apple-books.png",
     "title": "TravelGo",
     "companyName": "WorldConnect",
     "id": 11,
     "description": "TravelGo helps you find affordable flights, hotels, and travel packages, offering AI-based suggestions for a seamless travel experience.",
     "size": 98,
-    "reviews": 10200,
+    "reviews": 10,
     "ratingAvg": 4.5,
     "downloads": 5,
     "ratings": [
@@ -342,13 +342,13 @@
     ]
   },
   {
-    "image": "https://example.com/images/app12.png",
+    "image": "https://img.icons8.com/pulsar-gradient/300/youtube-play.png",
     "title": "StreamZone",
     "companyName": "VividStream Media",
     "id": 12,
     "description": "StreamZone lets users enjoy HD movies, shows, and live events anytime, anywhere, with personalized recommendations and offline mode.",
     "size": 145,
-    "reviews": 23800,
+    "reviews": 238,
     "ratingAvg": 4.7,
     "downloads": 15,
     "ratings": [
@@ -360,13 +360,13 @@
     ]
   },
   {
-    "image": "https://example.com/images/app13.png",
+    "image": "https://img.icons8.com/clouds/300/--tinder.png",
     "title": "LangHero",
     "companyName": "PolyLingua Labs",
     "id": 13,
     "description": "LangHero is an interactive language learning app with real-time pronunciation feedback, AI tutors, and gamified lessons for 40+ languages.",
     "size": 102,
-    "reviews": 17800,
+    "reviews": 178,
     "ratingAvg": 4.8,
     "downloads": 11,
     "ratings": [
@@ -378,13 +378,13 @@
     ]
   },
   {
-    "image": "https://example.com/images/app14.png",
+    "image": "https://img.icons8.com/doodle/300/piccollage.png",
     "title": "SecureVault",
     "companyName": "CyberTrust Inc.",
     "id": 14,
     "description": "SecureVault offers top-tier password management, encrypted storage, and biometric authentication to protect your sensitive data.",
     "size": 55,
-    "reviews": 7200,
+    "reviews": 72,
     "ratingAvg": 4.6,
     "downloads": 35,
     "ratings": [
@@ -396,13 +396,13 @@
     ]
   },
   {
-    "image": "https://example.com/images/app15.png",
+    "image": "https://img.icons8.com/bubbles/300/--tinder.png",
     "title": "CalmMind",
     "companyName": "ZenTech Studio",
     "id": 15,
     "description": "CalmMind helps users manage stress with guided meditations, sleep sounds, and mindfulness exercises personalized to their mood and habits.",
     "size": 88,
-    "reviews": 15300,
+    "reviews": 15,
     "ratingAvg": 4.9,
     "downloads": 9,
     "ratings": [
@@ -414,13 +414,13 @@
     ]
   },
   {
-    "image": "https://example.com/images/app16.png",
+    "image": "https://img.icons8.com/clouds/300/piccollage.png",
     "title": "FoodSnap",
     "companyName": "TastyLens",
     "id": 16,
     "description": "FoodSnap recognizes dishes and ingredients from photos, offering recipes, nutrition info, and restaurant suggestions instantly.",
     "size": 94,
-    "reviews": 9700,
+    "reviews": 97,
     "ratingAvg": 4.3,
     "downloads": 45,
     "ratings": [
@@ -432,13 +432,13 @@
     ]
   },
   {
-    "image": "https://example.com/images/app17.png",
+    "image": "https://img.icons8.com/clouds/300/workout-women.png",
     "title": "ShopMate",
     "companyName": "SmartCart Global",
     "id": 17,
     "description": "ShopMate is your intelligent shopping companion, comparing prices across online stores and tracking discounts in real-time.",
     "size": 79,
-    "reviews": 12600,
+    "reviews": 126,
     "ratingAvg": 4.4,
     "downloads": 8,
     "ratings": [
@@ -450,13 +450,13 @@
     ]
   },
   {
-    "image": "https://example.com/images/app18.png",
+    "image": "https://img.icons8.com/clouds/300/workout-women.png",
     "title": "DriveEase",
     "companyName": "AutoPilot Apps",
     "id": 18,
     "description": "DriveEase provides navigation, trip logs, and AI-based driving assistance for smoother, safer, and more efficient journeys.",
     "size": 120,
-    "reviews": 8900,
+    "reviews": 89,
     "ratingAvg": 4.2,
     "downloads": 4,
     "ratings": [
@@ -468,13 +468,13 @@
     ]
   },
   {
-    "image": "https://example.com/images/app19.png",
+    "image": "https://img.icons8.com/clouds/300/twitter-squared.png",
     "title": "BookNest",
     "companyName": "ReadMore Studios",
     "id": 19,
     "description": "BookNest offers an endless digital library with personalized book recommendations, offline reading, and audiobook integration.",
     "size": 108,
-    "reviews": 14600,
+    "reviews": 146,
     "ratingAvg": 4.7,
     "downloads": 9,
     "ratings": [
@@ -486,21 +486,25 @@
     ]
   },
   {
-    "image": "https://example.com/images/app20.png",
+    "image": "https://img.icons8.com/plasticine/300/zalo.png",
     "title": "HomeSmart",
     "companyName": "FutureLiving Tech",
     "id": 20,
     "description": "HomeSmart connects and automates your smart home devices, giving you control over lighting, temperature, and security from one app.",
     "size": 130,
-    "reviews": 12300,
+    "reviews": 12,
     "ratingAvg": 4.5,
     "downloads": 6,
     "ratings": [
-      { "name": "1 star", "count": 510 },
-      { "name": "2 star", "count": 870 },
-      { "name": "3 star", "count": 1200 },
+      { "name": "5 star", "count": 6920 },
       { "name": "4 star", "count": 2800 },
-      { "name": "5 star", "count": 6920 }
+      { "name": "3 star", "count": 1200 },
+      { "name": "2 star", "count": 820 },
+      { "name": "1 star", "count": 510}
     ]
   }
 ]
+
+
+
+
