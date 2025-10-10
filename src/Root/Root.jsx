@@ -5,6 +5,7 @@ import Apps from "../Pages/Apps/Apps";
 import Installation from "../Pages/Installation/Installation";
 import AppsDetails from "../Pages/AppsDetails/AppsDetails";
 import AppsNotFound from "../Pages/Apps/AppsNotFound/AppsNotFound";
+import pageNoteFound from '../Pages/PageNotFound/PageNotFound';
 import Loading from "../Components/Loading/Loading";
 
 export const router = createBrowserRouter([
@@ -37,7 +38,7 @@ export const router = createBrowserRouter([
             },
             {
                 path: '*',
-                Component: AppsNotFound
+                Component: pageNoteFound
             }
         ],
     }
