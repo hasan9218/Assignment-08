@@ -9,7 +9,7 @@ const Navber = () => {
       <div className="navbar shadow-b-sm bg-white max-w-[1700px] mx-auto">
         <div className="navbar-start">
           <div className="dropdown">
-            <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
+            <div tabIndex={0} role="button" className="btn text-gray-400 text-6xl btn-ghost lg:hidden">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 className="h-5 w-5"
@@ -28,11 +28,11 @@ const Navber = () => {
             </div>
             <ul
               tabIndex={0}
-              className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow"
+              className="menu menu-sm dropdown-content bg-gray-200 mt-5 rounded-box z-1 w-52 p-2 shadow"
             >
-              <li><NavLink to={'/'} className={({ isActive }) => isActive ? "text-[#894FED] border-2" : 'text-black'}>Home</NavLink></li>
-              <li><NavLink to={'/apps'} className={({ isActive }) => isActive ? "text-[#894FED] border-2" : 'text-black'}>Apps</NavLink></li>
-              <li><NavLink to={'/installation'} className={({ isActive }) => isActive ? "text-[#894FED] border-2" : 'text-black'}>Installation</NavLink></li>
+              <li><NavLink to={'/'} className={({ isActive }) => isActive ? "text-[#894FED] border-b-2 rounded-none w-12" : 'text-black'}>Home</NavLink></li>
+              <li><NavLink to={'/apps'} className={({ isActive }) => isActive ? "text-[#894FED] border-b-2 rounded-none w-12" : 'text-black'}>Apps</NavLink></li>
+              <li><NavLink to={'/installation'} className={({ isActive }) => isActive ? "text-[#894FED] border-b-2 rounded-none w-20" : 'text-black'}>Installation</NavLink></li>
             </ul>
           </div>
           <Link to="/" className="flex items-center"><img src={logoimg} alt="Logo" style={{ width: '40px', height: '40px' }} /> <span className='text-sm md:text-2xl font-extrabold bg-gradient-to-r from-[#632EE3] to-[#9F62F2] inline-block text-transparent bg-clip-text'>HERO.IO</span> </Link>

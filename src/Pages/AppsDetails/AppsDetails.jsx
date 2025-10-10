@@ -55,7 +55,7 @@ const AppsDetails = () => {
     
 
     return (
-        <div className='max-w-[1700px] mx-auto py-20'>
+        <div className='max-w-[1700px] mx-auto py-20 lg:px-5'>
             <div>
                 <div className='flex flex-col md:flex-row justify-center items-center space-x-10'>
                     <div className='bg-white p-10 w-fit mx-auto md:mr-10 rounded-lg'>
@@ -102,7 +102,7 @@ const AppsDetails = () => {
                             </div>
                         </div>
                         <div className='w-60 md:w-auto mx-auto mt-5 md:mt-0'>
-                            <button onClick={() => {handleSetData(appDatas), handleChackLoleData()}} className={`btn w-65 p-6 border-0 ${appIntalled ? 'bg-green-300 cursor-not-allowed' : 'bg-[#00D390]'} font-semibold text-white text-[17px] mt-3`}>{appIntalled ? 'Installed' : `Installed Now (${size} MB)`}</button>
+                            <button onClick={() => {handleSetData(appDatas), handleChackLoleData()}} className={`btn w-65 p-6 border-0 ${appIntalled ? 'bg-green-300 cursor-not-allowed' : 'bg-[#00D390]'} font-semibold text-white text-[17px] mt-3`}>{appIntalled ? 'Installed' : `Install Now (${size} MB)`}</button>
                         </div>
                     </div>
                 </div>

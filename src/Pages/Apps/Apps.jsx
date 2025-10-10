@@ -42,11 +42,11 @@ const Apps = () => {
                 <h1 className="text-3xl md:text-[48px] text-black font-bold text-center mb-5">Our All Applications</h1>
                 <p className="text-center text-[20px] text-gray-500">Explore All Apps on the Market developed by us. We code for Millions</p>
             </div>
-            <div className="flex flex-col-reverse md:flex-row justify-center items-center md:justify-between">
+            <div className="flex flex-col-reverse md:flex-row justify-center items-center md:justify-between lg:px-5">
                 <h1 className="font-bold mt-5 text-black md:mt-0 text-center md:text-left text-[24px]">({changeAppData.length}) Apps Found</h1>
                 <input type="search" value={searchValue} onChange={handleOnChange} name="search Apps" placeholder="🔍 Search apps" className="border border-gray-300 rounded-md p-2 text-black max-w-96 md:w-96 placeholder-gray-400 outline-none" />
             </div>
-            <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-8 py-9">
+            <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-8 py-9 lg:px-5">
                 {
                     load ? <div className="lg:h-90 md:w-[800px] lg:w-[1700px] flex justify-center  items-center"><h1><MoonLoader color="blue" /></h1></div> : changeAppData.length === 0 ? <div className='col-span-full space-y-5 text-center'>
                         <div>

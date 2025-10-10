@@ -17,7 +17,7 @@ const Cards = () => {
                 <h1 className="text-center text-black text-[48px] font-bold">Trending Apps</h1>
                 <p className="text-center text-[20px] text-gray-500">Explore All Trending Apps on the Market developed by us</p>
             </div>
-            <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-8">
+            <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-8 lg:px-5">
                 {
                     cliceAppsData.map(appData => <Card key={appData.id} appData={appData}/>)
                 }

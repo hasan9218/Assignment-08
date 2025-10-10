@@ -34,7 +34,7 @@ const Installation = () => {
     }
     return (
         <div>
-            <div className="max-w-[1700px] mx-auto">
+            <div className="max-w-[1700px] mx-auto lg:px-5">
                 <div className="py-20">
                     <h1 className="text-4xl md:text-[48px] text-black font-bold text-center mb-4">Your Installed Apps</h1>
                     <p className="text-center text-[20px] text-gray-500">Explore All Trending Apps on the Market developed by us</p>
@@ -48,7 +48,7 @@ const Installation = () => {
                     </select>
                 </div>
             </div>
-            <div className="max-w-[1700px] mx-auto space-y-5  min-h-screen pb-10">
+            <div className="max-w-[1700px] mx-auto space-y-5  min-h-screen pb-10 lg:px-5">
                 { installedApps.length === 0 ? <div className="min-h-screen flex justify-center items-center"><h1 className="text-center text-4xl font-bold text-gray-500">No Installed Apps</h1></div> : installedApps.map(app => (
                 <div key={app.id} className="flex justify-between bg-white rounded-md items-center py-3 md:py-6 px-5">
                     <div className="flex items-center space-x-2 md:space-x-5">
