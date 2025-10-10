@@ -27,11 +27,11 @@ const Installation = () => {
     const handleOnChange = (e) => {
         setSort(e.target.value)
         if(e.target.value === "High to Low"){
-            setInstalledApps([...installedApps].sort((a, b) => parseInt(b.downloads) - parseInt(a.downloads)))
+            setInstalledApps([...installedApps].sort((a, b) => (Number(b.downloads) || 0) - (Number(a.downloads) || 0)))
         } else if(e.target.value === "Low to High"){
-            setInstalledApps([...installedApps].sort((a, b) => parseInt(a.downloads) - parseInt(b.downloads)))
+            setInstalledApps([...installedApps].sort((a, b) => (Number(a.downloads) || 0) - (Number(b.downloads) || 0)))
         }
-    }
+}
     return (
         <div>
             <div className="max-w-[1700px] mx-auto lg:px-5">
@@ -42,7 +42,7 @@ const Installation = () => {
                 <div className="mb-7 flex flex-col-reverse md:flex-row md:justify-between">
                     <h1 className="font-bold mt-5 md:mt-0 text-center md:text-left text-black text-[24px]">({installedApps.length}) Apps Found</h1>
                     <select name="" id="" value={sort} onChange={handleOnChange} className="w-50 text-[#627382] h-10 md:h-auto mx-auto md:mx-0 rounded-lg px-2 border-2 border-gray-300 font-medium p-2">
-                        <option value="Sort By Download">Sort By Size</option>
+                        <option value="Sort By Download">Sort By Download</option>
                         <option  value="High to Low">High to Low</option>
                         <option value="Low to High">Low to High</option>
                     </select>
@@ -58,9 +58,9 @@ const Installation = () => {
                         <div>
                             <h1 className="mb-2 md:mb-5 text-black text-[20px] font-semibold">{app?.title}</h1>
                             <div className="flex space-x-2 md:space-x-5">
-                                <p className="md:font-semibold text-[#00D390]"><img className="w-[14px] inline-block mr-1" src={dimg} alt="" />{app?.downloads}</p>
-                                <p className="md:font-semibold text-[#FF8811]"><img className="w-[14px] inline-block mr-1" src={rimg} alt="" />{app?.ratingAvg}</p>
-                                <p className="md:font-semibold text-[#6C7C8A]">{app?.size} MB</p>
+                                <p className="md:font-semibold flex items-center text-[#00D390]"><img className="w-[14px] inline-block mr-1" src={dimg} alt="" />{app?.downloads}M</p>
+                                <p className="md:font-semibold flex items-center text-[#FF8811]"><img className="w-[14px] inline-block mr-1" src={rimg} alt="" />{app?.ratingAvg}</p>
+                                <p className="md:font-semibold flex items-center text-[#6C7C8A]">{app?.size} MB</p>
                             </div>
                         </div>
                     </div>

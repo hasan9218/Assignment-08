@@ -1,7 +1,6 @@
 import { useEffect, useState } from "react";
 import Card from "../../Components/card/Card";
 import { useAppsJsonData } from "../../Hoks/DataFetch";
-import NoAppsFound from "../../Components/NoAppsFound/NoAppsFound";
 import Loading from "../../Components/Loading/Loading";
 import { MoonLoader } from "react-spinners";
 import { Link } from "react-router-dom";
