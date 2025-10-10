@@ -55,7 +55,7 @@ const Apps = () => {
                             <h1 className='text-3xl text-black md:text-5xl font-semibold'>OPPS!! APP NOT FOUND</h1>
                         </div>
                         <div>
-                            <p className='text-gray-500'>The page you are looking for is not available.</p>
+                            <p className='text-gray-500'>The App you are requesting is not found on our system.  please try another apps</p>
                         </div>
                         <div className="w-fit mx-auto">
                             <Link to={'/'}><button className='btn w-45 p-6 border-0 bg-gradient-to-br to-[#9F62F2] from-[#6530E4] font-semibold text-white text-[17px]'>Go Back!</button></Link>
